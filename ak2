@@ -1,0 +1,11 @@
+>> y=factorial(2)
+
+y =
+
+     2
+
+>> y=factorial(6)
+
+y =
+
+   720
